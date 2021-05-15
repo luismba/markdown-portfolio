@@ -2,3 +2,5 @@
 * Descansar
   * Sentado
   * Tumbado
+
+**Combinado *ambas***
